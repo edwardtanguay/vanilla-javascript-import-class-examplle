@@ -6,3 +6,7 @@ export const attachCard = (elem, title = 'Info') => {
 </div>
 `;
 }
+
+export const getInfo = () => {
+	return '<div class="info">This site is a demonstration of function and class modules.</div>'
+}
