@@ -11,6 +11,14 @@ body {
 	margin: 0 10px 10px 0;
 }
 
+.card.offline {
+	background: rgb(192, 113, 113);
+}
+
+.card.online {
+	background: rgb(148, 192, 167);
+}
+
 h2 {
 	margin: 0;
 	font-size: 1.6rem;
